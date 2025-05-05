@@ -1,0 +1,50 @@
+object literals
+destructuring object
+template strings or template literals
+rest operator 
+spread operator
+arrow function
+pure function
+curring function
+closure
+call back function
+promise function
+
+
+
+
+
+
+
+bounceIn
+bounceInUp
+bounceInDown
+bounceInLeft
+bounceInRight
+
+zoomInUp
+zoomInDown
+
+
+
+
+designed templates
+happy cliets
+hours of coading
+lines of code
+
+
+linear-gradient(45deg,rgba(255,255,255,.15) 25%,transparent 25%,transparent 50%,rgba(255,255,255,.15) 50%,rgba(255,255,255,.15) 75%,transparent 75%,transparent)
+
+interests
+travel and picnic
+rain and snow
+
+language
+english, hindi, urdu
+
+knowledge
+
+
+https://rarathemes.com/previews/?theme=pranayama-yoga for the = cnt
+https://rishidemos.com/yoga-center/
