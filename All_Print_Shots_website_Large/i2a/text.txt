@@ -1,8 +1,17 @@
+akounto.com
+This website offers the All-in-one accounting software to manage invoices, expenses, financial reports, payments, and taxes.
+
+akountobooks.com
+
+
 askairlinesofficial.com
 AskAirlinesOfficial is a platform where our sole aim is to  share information related to airport terminals for different airlines.
 
 reservations.us
 Reservations.us is your trusted partner for seamless travel planning. We specialize in cruise bookings, flight reservations, and car rentals, offering you the best deals and hassle-free service all in one place.
+
+9cents.com
+We are here to make the limitless opportunities of global capital markets accessible to everyone. Our platform is designed with flexibility and innovation, offering seamless access to modern trading products. We take pride in being your favorite destination to trade leveraged instruments in Forex, Indices, Metals, Commodities, and Shares, we provide a trusted and intuitive interface tailored to your needs.
 
 trading.9cents.com
 Take your first step into CFD trading with extra support. Open an account, make your first deposit of $100 or more, and receive up to a 20% bonus to start with greater flexibility and confidence.
@@ -37,9 +46,6 @@ LowPriceCarRental.com offers a wide selection of cars, from economy vehicles to 
 
 lowpricecarrental.com
 Welcome to lowpricecarrental.com, the premier digital car rental aggregation platform owned and operated by Orbtickets LLC. Based in the United States, we serve as a professional bridge between savvy travelers and the world’s leading vehicle rental brands. 
-
-cruise-travels.com
-Orbtickets LLC, operating as cruise-travels.com, is a premier cruise reservation aggregator. We facilitate seamless bookings between travelers and the world’s leading maritime carriers. 
 
 thetravelconnection.us
 At TheTravelConnection, we make renting a car simple, reliable, and convenient. Our mission is to provide a wide range of well-maintained vehicles that suit every journey, from business trips to leisure travel, ensuring a seamless experience for all our customers. 
