@@ -442,11 +442,11 @@
             </tr>
             <tr>
                 <td>Mobile Number</td>
-                <td><a href="tel:+918745999480">+91 8745999480</a></td>
+                <td><a href="tel:+918745999480" target="_blank">+91 8745999480</a></td>
             </tr>
             <tr>
                 <td>Email ID</td>
-                <td><a href="mailto:nomaanarif786@gmail.com">nomaanarif786@gmail.com</a></td>
+                <td><a href="mailto:nomaanarif786@gmail.com" target="_blank">nomaanarif786@gmail.com</a></td>
             </tr>
             <tr>
                 <td>Languages Known</td>
@@ -460,9 +460,7 @@
     </table>
 
     <p class="head1">Declaration</p>
-    <p class="declaration">
-        I hereby declare that the information provided above is true and correct to the best of my knowledge and belief. References can be provided upon request.
-    </p>
+    <p class="declaration">I hereby declare that the information provided above is true and correct to the best of my knowledge and belief. References can be provided upon request.</p>
 
     <ul class="footer">
         <li>Place: Ghaziabad, Uttar Pradesh</li>
@@ -474,23 +472,22 @@
 <script type="text/javascript">
   const joinDate = new Date(2015, 4, 9); // May 9, 2015
   const today = new Date();
-
   let years = today.getFullYear() - joinDate.getFullYear();
   let months = today.getMonth() - joinDate.getMonth();
-
   if (today.getDate() < joinDate.getDate()) {
     months--;
   }
-
   if (months < 0) {
     years--;
     months += 12;
   }
-
   const expElement = document.querySelector(".years");
-
   if (expElement) {
-    expElement.innerHTML = years + " years " + months + " months";
+    let result = years + " years";
+    if (months > 0) {
+      result += " " + months + (months === 1 ? " month" : " months");
+    }
+    expElement.innerHTML = result;
   }
 </script>
 </body>
