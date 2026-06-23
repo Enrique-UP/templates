@@ -32,7 +32,7 @@ table tr span.full_width{width:100%;float:left;margin-bottom: 5px;}
 table tr span.full_width strong{font-weight:normal;text-decoration:underline;color:#e38330;}
 table th{background: #f5f5f5;text-align: left;font-weight: normal;}
 table sup{line-height: 1;}
-table.two tr > *:first-child{width:20%;}
+table.two tr > *:first-child{width:250px;}
 table.four th, table.four td{width:25%;}
 table.align th:first-child, table.align td:first-child{width:20%;}
 table.projects.m_b{margin-bottom: 5px;}
