@@ -33,7 +33,7 @@ table tr span.full_width strong{font-weight:normal;text-decoration:underline;col
 table th{background: #f5f5f5;text-align: left;font-weight: normal;}
 table sup{line-height: 1;}
 table.two tr > *:first-child{width:250px;}
-table.four th, table.four td{width:25%;}
+/* table.four th, table.four td{width:25%;} */
 table.align th:first-child, table.align td:first-child{width:20%;}
 table.projects.m_b{margin-bottom: 5px;}
 table.projects td:first-child{background: #f5f5f5;width:20%;}
@@ -45,4 +45,5 @@ p.declaration{margin-bottom: 25px;}
 ul.footer{width:100%;float:left;padding:0;margin:0;}
 ul.footer > li{width:50%;float:left;list-style: none;}
 ul.footer > li:nth-child(even){text-align: right;}
-.years{font-weight: bold;}
+.bold{font-weight: bold;}
+.fLetter{text-transform:capitalize;}
