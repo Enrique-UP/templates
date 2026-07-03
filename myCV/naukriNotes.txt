@@ -3,7 +3,7 @@ TypeScript
 I Questions
 Tailwind css
 Material ui
-REST API Integration
+REST API Integration (GET, POST, PUT, DELETE)
 Angular js
 React js hooks, STATE
 Redux (Javascript Library)
@@ -37,45 +37,3 @@ freshness 7 days
 sort by date
 
 
-let and const
-Arrow Functions (=>)
-Template Literals
-Destructuring
-	const colors = ["red", "green", "blue"];
-	const [first, second] = colors;
-	console.log(first);  // red
-	
-	const numbers = [10, 20, 30, 40, 50];
-	const [first, ...rest] = numbers;
-	console.log(first); // 10
-	console.log(rest);  // [20, 30, 40, 50]
-	
-console.log(second); // green
-Spread (...) and Rest Operators
-Default Parameters
-Classes
-Modules (import/export)
-Promises
-Async/Await
-Optional Chaining (?.)
-Nullish Coalescing (??)
-Array methods (map, filter, reduce, etc.)
-
-
-in interview
-
-Variables
-Functions
-Scope
-Closures
-Hoisting
-this
-Objects
-Arrays
-ES6
-Promises
-async/await
-DOM
-Events
-fetch API
-React basics
